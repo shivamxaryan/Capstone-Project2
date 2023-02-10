@@ -12,7 +12,4 @@ npm install
 
 ```
 npm start
-```
-
-<img align="right" src="./public/home.png" width="100%"/>
-<br/>
+``
